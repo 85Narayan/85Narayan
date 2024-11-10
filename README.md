@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, JavaScript, Express.js, Java**
 
-- 👨‍💻 All of my projects are available at [https://gurmukhsingh27.github.io/Portfolio/](https://gurmukhsingh27.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://gurmukhsingh27.github.io/Portfolio/](https://gurmukhsingh27.github.io/Portfolio/) 
 
 - 💬 Ask me about **React.js, Node.js, JavaScript, Express.js, Java**
 

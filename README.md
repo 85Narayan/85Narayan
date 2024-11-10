@@ -1,6 +1,6 @@
 # My-Profile
 <h1 align="center">Hi 👋, I'm Narayan Sharma</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Lucknow,India.</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Gwalior,India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurmukhsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="gurmukhsingh27" /> </p>
 
@@ -10,11 +10,11 @@
 
 - 💬 Ask me about **React.js, Node.js, JavaScript, Express.js, Java**
 
-- 📫 How to reach me **busygurmukh@gmail.com**
+- 📫 How to reach me **narayansharmaa99@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12P8NeVfZwAAqemMJfP1h5iyBRMLcKuuT/view?usp=sharing](https://drive.google.com/file/d/12P8NeVfZwAAqemMJfP1h5iyBRMLcKuuT/view?usp=sharing)
 
-- ⚡ Fun fact **I am a cricket enthusiast.**
+- ⚡ Fun fact **I am a football enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

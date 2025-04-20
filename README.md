@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurmukhsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="85Narayan" /> </p>
 
-- 🌱 I’m currently learning **React.js, Node.js, JavaScript, Express.js, Java**
+- 🌱 I’m currently learning **React.js, Node.js, JavaScript, Express.js, Cpp**
 
 - 👨‍💻 All of my projects are available at [https://85Narayan.github.io/Portfolio/](https://85Narayan.github.io/Portfolio/) 
 
-- 💬 Ask me about **React.js, Node.js, JavaScript, Express.js, Java**
+- 💬 Ask me about **React.js, Node.js, JavaScript, Express.js, Cpp**
 
-- 📫 How to reach me **narayansharmaa99@gmail.com**
+- 📫 How to reach me **narayansharmaaa9@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12P8NeVfZwAAqemMJfP1h5iyBRMLcKuuT/view?usp=sharing](https://drive.google.com/file/d/12P8NeVfZwAAqemMJfP1h5iyBRMLcKuuT/view?usp=sharing)
 

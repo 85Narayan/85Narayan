@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, JavaScript, Express.js, Cpp**
 
-- 👨‍💻 All of my projects are available at [https://85Narayan.github.io/Portfolio/](https://85Narayan.github.io/Portfolio/) 
+- 👨‍💻 All of my projects are available at [[https://85Narayan.github.io/Portfolio/](https://narayansharma-portfolio.netlify.app/)](https://85Narayan.github.io/Portfolio/) 
 
 - 💬 Ask me about **React.js, Node.js, JavaScript, Express.js, Cpp**
 
